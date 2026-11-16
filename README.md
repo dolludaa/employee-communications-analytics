@@ -5,7 +5,7 @@
 
 ### Video Presentation
 
-[Watch the video presentation]([https://youtu.be/9N4Pq9n-y-A]
+[Watch the video presentation][https://youtu.be/9N4Pq9n-y-A]
 ### Project Overview
 
 Analysis of 42 unique Viva Engage posts published between September and November 2026.
